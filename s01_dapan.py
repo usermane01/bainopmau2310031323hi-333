@@ -7,7 +7,7 @@ Tra ve cau chao 'Hi!'
 (ko co)
 
 --- output 
-Hi!
+Hi
 """
 
 def hi():
